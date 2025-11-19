@@ -5,7 +5,7 @@
       "name": "NoDelete by ryzer",
       "description": "NoDelete plugin",
       "authors": ["aceryzer"],
-      "source": "https"
+      "source": "https://raw.githubusercontent.com/aceryzer/ryzedel/BRANCH/PATH/FILE"
     }
   ]
 }
