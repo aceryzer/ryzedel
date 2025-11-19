@@ -1,7 +1,7 @@
 {
   "name": "NoDelete Patched",
+  "description": "Logs deleted and edited messages.",
   "author": "aceryzer",
   "version": "1.0.0",
-  "description": "Patched NoDelete plugin with edit logger",
   "main": "NoDelete_patched.js"
 }
