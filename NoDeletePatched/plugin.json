@@ -3,5 +3,5 @@
   "description": "Logs deleted and edited messages.",
   "author": "aceryzer",
   "version": "1.0.0",
-  "main": "NoDelete_patched.js"
+  "entry": "NoDelete_patched.js"
 }
