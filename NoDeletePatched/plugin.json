@@ -1,0 +1,7 @@
+{
+  "name": "NoDelete Patched",
+  "author": "aceryzer",
+  "version": "1.0.0",
+  "description": "Patched NoDelete plugin with edit logger",
+  "main": "NoDelete_patched.js"
+}
