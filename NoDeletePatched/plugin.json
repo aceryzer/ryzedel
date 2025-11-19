@@ -1,7 +1,5 @@
 {
   "name": "NoDelete Patched",
-  "description": "Logs deleted and edited messages.",
-  "author": "aceryzer",
   "version": "1.0.0",
   "entry": "NoDelete_patched.js"
 }
